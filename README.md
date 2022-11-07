@@ -12,3 +12,11 @@ Dental web
 ![Screenshot (4)](https://user-images.githubusercontent.com/116060228/198542251-400f3d44-e78f-4d98-9eff-721c3df3a4d0.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/116060228/198542301-dc56c3a8-bf16-4b4b-9e24-063369e406f2.png)
 
+##webpub services azure tool
+
+![webpubsub](https://user-images.githubusercontent.com/116060228/200334314-8565ba27-07c5-4f70-b794-22d411bcedf7.PNG)
+
+
+##static web apps
+
+![static web apps](https://user-images.githubusercontent.com/116060228/200334991-8eae794b-9f2e-4632-b0d0-11e811eea567.PNG)
