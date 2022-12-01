@@ -19,7 +19,8 @@ Primary Azure Technology : Static Web Apps, App Services
 
 # Azure tools applied:
 ## Static Web app : https://witty-forest-0f3bb4d00.2.azurestaticapps.net/
-## App Services : https://dentalweb.azurewebsites.net/
+
+## App Services Used : https://dentalweb.azurewebsites.net/
 
 ## GitHub website link : https://kvsssurya.github.io/final-pro/
 
