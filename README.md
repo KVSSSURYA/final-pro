@@ -42,7 +42,7 @@ Primary Azure Technology : Static Web Apps, App Services
 ![gallery2](https://user-images.githubusercontent.com/116060228/201088832-139cb0f9-73f2-40c1-8bf7-5c0c03bc4897.png)
 
 # Demo Video
-https://user-images.githubusercontent.com/116060228/209943976-d6f1999c-0ce5-4f31-a1d4-f2ea7cd9acf3.mp4
+https://github.com/KVSSSURYA/final-pro/blob/master/dental-web%20video%20demo.wmv
 
 
 # Azure Services
